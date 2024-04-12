@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Portfolio Website",
+      "slug": "portfolio-website",
+      "description": "Build a personal portfolio website to showcase your skills, courses, and experience.",
+      "price": 99.99,
+      "developer": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/blog.jpg"
+    },
+    {
+      "id": 2,
+      "title": "E-commerce Store",
+      "slug": "ecommerce-store",
+      "description": "Create an online store to sell products and manage transactions securely.",
+      "price": 109.99,
+      "developer": "Jane Smith",
+      "isFeatured": false,
+      "image": "/courses/ecommerce.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Blog Website",
+      "slug": "blog-website",
+      "description": "Develop a blog platform to publish articles, manage content, and engage with readers.",
+      "price": 119.99,
+      "developer": "Emily Johnson",
+      "isFeatured": true,
+      "image": "/courses/blog.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Social Media App",
+      "slug": "social-media-app",
+      "description": "Build a social networking platform for users to connect, share content, and interact.",
+      "price": 129.99,
+      "developer": "Mike Brown",
+      "isFeatured": false,
+      "image": "/courses/social-media.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Event Management System",
+      "slug": "event-management-system",
+      "description": "Design an application to organize and manage events, bookings, and attendees.",
+      "price": 139.99,
+      "developer": "Chris Davis",
+      "isFeatured": false,
+      "image": "/courses/event-managemen.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Online Learning Platform",
+      "slug": "online-learning-platform",
+      "description": "Create an e-learning platform to deliver courses, quizzes, and educational content.",
+      "price": 149.99,
+      "developer": "Alex Wilson",
+      "isFeatured": true,
+      "image": "/courses/online-learning.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Job Board Website",
+      "slug": "job-board-website",
+      "description": "Develop a job portal to connect job seekers with employers and facilitate job postings.",
+      "price": 159.99,
+      "developer": "Samantha Miller",
+      "isFeatured": false,
+      "image": "/courses/job-board.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Real Estate Listings",
+      "slug": "real-estate-listings",
+      "description": "Build a platform to list properties for sale or rent with detailed information and media.",
+      "price": 169.99,
+      "developer": "Luke Harris",
+      "isFeatured": true,
+      "image": "/courses/real-estate.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Online Booking System",
+      "slug": "online-booking-system",
+      "description": "Create a booking system for appointments, reservations, or ticketing purposes.",
+      "price": 179.99,
+      "developer": "Grace Lee",
+      "isFeatured": false,
+      "image": "/courses/booking-system.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Forum Platform",
+      "slug": "forum-platform",
+      "description": "Develop an online forum for discussions, knowledge sharing, and community building.",
+      "price": 189.99,
+      "developer": "Ethan Moore",
+      "isFeatured": true,
+      "image": "/courses/forum.jpg"
+    }
+  ]
+}

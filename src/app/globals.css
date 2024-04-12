@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ html{
+  scroll-behaviour:smooth ;
+  font-family:'Raleway', sans-serif;
+ }
+ .custom-img{
+   
+    background-image:url('./background.jpg')
+ }
+
+
+ .hover-effect {
+  transition: color 0.3s ease;
+}
+
+.hover-effect:hover {
+  color: white; /* Change to whatever color you prefer */
+}
