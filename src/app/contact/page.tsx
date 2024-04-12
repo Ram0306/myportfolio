@@ -9,9 +9,9 @@ import { FaFacebook ,FaTwitter,FaGithubSquare,FaInstagram ,FaLinkedin  } from "r
 const page = () => {
   return (
     // <body className='antialiased'  >  
-      <div className=' flex w-full min-h-screen justify-center items-center '>
+      <div className=' flex w-full min-h-screen justify-center items-center bg-teal-500 sticky  '>
         <div className='flex flex-col md:flex-row md:space-x-6 md:space-y-0  sm:space-y-6 bg-cyan-700 w-full max-w-4xl p-8 rounded-xl shadow-lg text-white sm:p-12 overflow-hidden'>
-           <div className='flex flex-col justify-between'>
+           <div className='flex  flex-col justify-between'>
                <div>
                  <h1 className='text-4xl font-bold tracking-wide'>Contact Us</h1>
                  <p className='pt-2 text-cyan-100 text-sm'>"Your feedback matters to us. Whether you have questions, suggestions, or just want to say hello,
@@ -53,9 +53,9 @@ const page = () => {
         <div className='relative'>
           <div className='absolute z-0  w-40 h-40 bg-teal-500 rounded-full -right-20 -top-20 '></div>
           <div className='absolute z-0  w-40 h-40 bg-teal-500 rounded-full -left-20 -bottom-16 '></div>
-           <div className=' relative z-10  bg-white  text-black rounded-xl shadow-lg p-8 md:w-[30rem]'>
+           <div className=' relative z-10  bg-teal-600 text-black rounded-xl shadow-lg p-8 md:w-[30rem]'>
            <form action="" className='flex flex-col space-y-4'>
-             <div className='space-y-5 font-bold  '>
+             <div className='space-y-5 font-bolsd  '>
                 <div>
                  <label className=''>Your name</label>
                   <input
@@ -74,7 +74,6 @@ const page = () => {
                   />
                
                 </div>
-    http://localhost:3000/work
                 <div>
                 <label className=''>Message</label>
                   <textarea
