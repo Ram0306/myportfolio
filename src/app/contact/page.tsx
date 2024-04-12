@@ -8,7 +8,7 @@ import { FaFacebook ,FaTwitter,FaGithubSquare,FaInstagram ,FaLinkedin  } from "r
 
 const page = () => {
   return (
-    <body className='antialiased'  >
+    // <body className='antialiased'  >  
       <div className=' flex w-full min-h-screen justify-center items-center '>
         <div className='flex flex-col md:flex-row md:space-x-6 md:space-y-0  sm:space-y-6 bg-cyan-700 w-full max-w-4xl p-8 rounded-xl shadow-lg text-white sm:p-12 overflow-hidden'>
            <div className='flex flex-col justify-between'>
@@ -74,7 +74,7 @@ const page = () => {
                   />
                
                 </div>
-    
+    http://localhost:3000/work
                 <div>
                 <label className=''>Message</label>
                   <textarea
@@ -94,7 +94,7 @@ const page = () => {
 
       </div>
 
-    </body>
+    // </body>
     
   )
 }
