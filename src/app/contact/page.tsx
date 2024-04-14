@@ -1,4 +1,4 @@
-'use client'
+
 import React from 'react'
 import {IoCall, } from "react-icons/io5";
 import { CiMail } from "react-icons/ci";

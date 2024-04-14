@@ -7,7 +7,7 @@ function Footer() {
         <div>
           <h2 className="text-teal-700 text-lg font-semibold mb-4">About Us</h2>
           <p className="mb-4">
-            Based in India, I'm a Fullstack developer passionate about building a modern web application that users love.
+            Based in India, I&apos;m a Fullstack developer passionate about building a modern web application that users love.
           </p>
         </div>
 
