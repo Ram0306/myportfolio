@@ -32,22 +32,19 @@ const page = () => {
                   </div>
 
                </div>
-                  <div className='flex  space-x-4 mt-10 ml-9 mb-10'> 
-                    <a href="#">
-                     <FaFacebook  className='text-2xl ' />
-                      </a>
-                      <a href="#">
-                     <FaTwitter   className='text-2xl hover:text-blue-800' />
-                      </a>
-                      <a href="#">
-                     <FaGithubSquare  className='text-2xl hover:text-gray-300' />
-                      </a>
-                      <a href="#">
-                     <FaInstagram  className='text-2xl  hover:text-pink-500' />
-                      </a>
-                      <a href="#">
-                     <FaLinkedin   className='text-2xl hover:text-blue-800' />
-                      </a>
+                  <div className='flex  space-x-4 mt-10 ml-9 mb-10 text-2xl '> 
+                    <a href="https://www.facebook.com/yogit.mamania.1" className="hover:text-sky-300 transition-colors duration-300">
+                      <FaFacebook />
+                    </a>
+                   <a href="https://twitter.com/im_ramofficial" className=" hover:text-sky-500 transition-colors duration-300">
+                    <FaTwitter />
+                  </a>
+                  <a href="https://www.instagram.com/___iamram/?next=%2F" className=" hover:text-rose-500 transition-colors duration-300">
+                   <FaInstagram />
+                 </a>
+                 <a href="https://www.linkedin.com/in/ram-9804931b1/" className="hover:text-sky-500 transition-colors duration-300">
+                   <FaLinkedin />
+                 </a>
                   </div>
            </div>
         <div className='relative'>
